@@ -91,7 +91,7 @@ Also there are 610 null values without category treated with the label **unknown
 ### Data Lineage
 
 Full interactive lineage graph (via dbt docs): 
-[View data lineage →](https://CAEZARVS2001.io/olist-data-warehouse/dbt-lineage/)
+[View data lineage →](https://CAEZARVS2001.github.io/olist-data-warehouse/dbt-lineage/)
 
 ## EDA
 (in progress)
