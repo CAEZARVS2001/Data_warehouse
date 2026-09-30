@@ -88,6 +88,11 @@ Also there are 610 null values without category treated with the label **unknown
 ### ERD for star schema order reviews
 ![](docs/diagrams/ERD_gold_reviews.jpg)
 
+### Data Lineage
+
+Full interactive lineage graph (via dbt docs): 
+[View data lineage →](https://CAEZARVS2001.io/olist-data-warehouse/dbt-lineage/)
+
 ## EDA
 (in progress)
 
